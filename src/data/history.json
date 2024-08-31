@@ -1,0 +1,37 @@
+[
+    {
+      "role": "Software Dev Engr I ",
+      "organisation": "CSG International Pty Ltd",
+      "startDate": "Sept, 2021",
+      "endDate": "July 2023",
+      "experiences": ["Served as a Developer on the MultiChoice Project at CSG International Pty Ltd, specializing in a development tool for rating and billing.", 
+                    "Developed an end-to-end application test suite using REST APIs and Selenium, automating regression testing post-deployment and cutting manual testing efforts by 70%.",
+                    "Successfully engineered and deployed several Perl models for the MultiChoice project, which have been integrated into production environments, showcasing a significant improvement in overall performance which reduced defect leakages and bugs by 10%.",
+                    "Played a crucial role in the development and implementation of the highly complex GL framework and subtotals, a specialization known to only 5% of CSG International's employees."],
+      "imageSrc": "history/csg.png"
+    },
+    {
+      "role": "Applicaation Developer",
+      "organisation": "DHS Informatics",
+      "startDate": "March, 2021",
+      "endDate": "May, 2022",
+      "experiences": ["Architected a Mobile Application for Bank Loan Classification.", 
+                    "Leveraged machine learning algorithms within the banking sector.",
+                    "Engineered the application to predict loan approval status based on user-provided data.",
+                    "Achieved a 20% reduction in manual processing efforts."],
+      "imageSrc": "history/dhs.png"
+    },
+    {
+      "role": "Java Developer",
+      "organisation": "E-Park Research Center ",
+      "startDate": "June, 2019",
+      "endDate": "August, 2020",
+      "experiences": [
+        "Developed a Cricket Management System as a Java Developer Intern.",
+        "Created a comprehensive software solution for managing cricket-related activities.",
+        "Automated and optimized the manual process of data management.",
+        "Enhanced accessibility and efficiency in handling cricket-related data"
+      ],
+      "imageSrc": "history/epark.png"
+    }
+  ]

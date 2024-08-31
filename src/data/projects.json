@@ -1,0 +1,26 @@
+[
+    {
+      "title": "AI-Driven Face Mask Detection for Enhancing COVID-19 Safety Measures",
+      "imageSrc": "projects/faceMask.png",
+      "description": "This is a project based on both contemporary deep learning and conventional machine learning methodologies, employing the ResNet-50 architecture for nuanced feature extraction. This model is adept at discerning the presence or absence of masks on individuals within images or videos, representing a complex object detection and classification challenge encompassing dual categories: Masked and Unmasked. .",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/AbhishekKrishna47/face-mask-detection"
+    },
+    {
+      "title": "Stock Market Analysis",
+      "imageSrc": "projects/stockMarket.png",
+      "description": "This is a project we will discover and explore data from the stock market, particularly some technology stocks (Apple, Amazon, Google, and Microsoft). We will learn how to use yfinance to get stock information, and visualize different aspects of it using Seaborn and Matplotlib. we will look at a few ways of analyzing the risk of a stock, based on its previous performance history. We will also be predicting future stock prices through a Long Short Term Memory (LSTM) method to forecast future stock prices..",
+      "skills": ["React", "Express", "Node", "Sass"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/AbhishekKrishna47/Stock-Market-Analysis"
+    },
+    {
+      "title": "College Chat Bot",
+      "imageSrc": "projects/CollegeChatBot.png",
+      "description": "This is a project which meticulously crafted, harnessing sophisticated artificial intelligence algorithms that meticulously analyze and comprehend the nuances of user queries. This system is conceptualized as a web-based application, engineered to deliver precise responses to user inquiries, facilitating queries pertaining to a broad spectrum of college-related activities through the platform,ensuring an intuitive and efficient user experience.The platform's intuitive interface ensures users can easily navigate and access the information they need",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]
